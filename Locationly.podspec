@@ -18,7 +18,7 @@ Pod::Spec.new do |s|
 #   * Finally, don't worry about the indent, CocoaPods strips it!
 
   s.description      = <<-DESC
-TODO: Add long description of the pod here.
+Locationly -- when you just want to get the location once and be done with it, using a simple closure, no delegates.
                        DESC
 
   s.homepage         = 'https://github.com/davidlari/Locationly'
@@ -30,7 +30,7 @@ TODO: Add long description of the pod here.
 
   s.ios.deployment_target = '8.0'
 
-  s.source_files = 'Locationly/Classes/**/*'
+  s.source_files = 'Classes/**/*'
   
   # s.resource_bundles = {
   #   'Locationly' => ['Locationly/Assets/*.png']
